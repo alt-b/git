@@ -27,12 +27,19 @@ https://blog.codecamp.jp/git_rebase
 * fork上でコンフリクト解除  
 リモートにでマージリクエストそれぞれ送り、リモートでコンフリクトを解消する  
 
+### 戻す・中止
+https://qiita.com/chihiro/items/5dd671aa6f1c332986a7  
+
 ### MarkDown記法
 * 参考サイト  
 https://qiita.com/Blueman81/items/72ca43681d16d44e21ad  
 https://qiita.com/tbpgr/items/989c6badefff69377da7  
+https://qiita.com/aymikmts/items/71e550bf2c10f36883e9  
 
 * Chromプラグイン  
 https://qiita.com/SUZUKI_Masaya/items/6476dbbcb3e369640c78  
 https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl  
 https://step-learn.com/markdown/20140904-preview.html  
+
+### Gitで出来ること
+https://qiita.com/legitwhiz/items/360eb08049ff8eb119b0　　
