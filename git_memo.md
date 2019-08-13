@@ -28,7 +28,15 @@ https://blog.codecamp.jp/git_rebase
 リモートにでマージリクエストそれぞれ送り、リモートでコンフリクトを解消する  
 
 ### 戻す・中止
+* マージしたけどやっぱりやめたい時のやり方4種類  
 https://qiita.com/chihiro/items/5dd671aa6f1c332986a7  
+
+### 運用
+* Webサイトの先祖返りを防ぐ方法  
+https://www.non-standardworld.co.jp/20160/  
+
+* Gitのブランチモデル  
+https://qiita.com/tomk79/items/763dbe5bbb68a8762f30  
 
 ### MarkDown記法
 * 参考サイト  
@@ -42,9 +50,9 @@ https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfno
 https://step-learn.com/markdown/20140904-preview.html  
 
 ### Gitで出来ること
-* Gitの運用ルールなど
-https://qiita.com/legitwhiz/items/360eb08049ff8eb119b0　　
+* Gitの運用ルールなど  
+https://qiita.com/legitwhiz/items/360eb08049ff8eb119b0  
 
-* Gitでwebサイト制作
-https://ferret-plus.com/5875
-https://prog-8.com/docs/github-pages
+* Gitでwebサイト制作  
+https://ferret-plus.com/5875  
+https://prog-8.com/docs/github-pages  
