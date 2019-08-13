@@ -42,4 +42,9 @@ https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfno
 https://step-learn.com/markdown/20140904-preview.html  
 
 ### Gitで出来ること
+* Gitの運用ルールなど
 https://qiita.com/legitwhiz/items/360eb08049ff8eb119b0　　
+
+* Gitでwebサイト制作
+https://ferret-plus.com/5875
+https://prog-8.com/docs/github-pages
